@@ -1,4 +1,4 @@
-dataScientistClass
+###dataScientistClass
 ==================
 
-Work from the John Hopkins Data Scientist Class Coursera
+##Work from the John Hopkins Data Scientist Class Coursera
